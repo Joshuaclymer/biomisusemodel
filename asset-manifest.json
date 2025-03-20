@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/biomisusemodel/static/css/main.579efac1.css",
+    "main.js": "/biomisusemodel/static/js/main.b4e56068.js",
+    "static/js/453.e758dc67.chunk.js": "/biomisusemodel/static/js/453.e758dc67.chunk.js",
+    "index.html": "/biomisusemodel/index.html",
+    "main.579efac1.css.map": "/biomisusemodel/static/css/main.579efac1.css.map",
+    "main.b4e56068.js.map": "/biomisusemodel/static/js/main.b4e56068.js.map",
+    "453.e758dc67.chunk.js.map": "/biomisusemodel/static/js/453.e758dc67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.579efac1.css",
+    "static/js/main.b4e56068.js"
+  ]
+}
