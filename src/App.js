@@ -178,9 +178,7 @@ function App() {
           display: "inline-block", 
           margin: "0 auto 40px"
         }}>
-          <p>The following is an interactive model of AI biorisks described in the research paper "A
-          Safety Case Sketch for Evaluating Safeguards Against AI-Enabled
-          Bioterrorism." The model leverages evidence from <span style={{ fontWeight: "bold" , color: "#1A4F76"}}>expert surveys</span>, <span style={{ fontWeight: "bold" , color: "#AF7B29"}}>capability evaluations</span>, and <span style={{ fontWeight: "bold" , color: "#59095E"}}>safeguards evaluations</span> to estimate the annual expected fatalities caused by pandemic pathogens developed by novices with the help of a particular AI assistant. 
+          <p>The following is an interactive model of AI biorisks. The model leverages evidence from <span style={{ fontWeight: "bold" , color: "#1A4F76"}}>expert surveys</span>, <span style={{ fontWeight: "bold" , color: "#AF7B29"}}>capability evaluations</span>, and <span style={{ fontWeight: "bold" , color: "#59095E"}}>safeguards evaluations</span> to estimate the annual expected fatalities caused by pandemic pathogens developed by novices with the help of a particular AI assistant. 
           <span style={{ fontWeight: "bold" , color: "black"}}> All of these parameters are illustrative and in practice would need to be specified with real data and expert input. </span> Biorisk is a concrete application of this model, but the model can also be applied to other AI misuse risks.
           </p>
         </div>
